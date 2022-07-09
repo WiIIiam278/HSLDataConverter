@@ -1,4 +1,4 @@
-package me.william278.husksync.data;
+package me.william278.husksync.bukkit.data;
 
 import org.bukkit.Material;
 import org.bukkit.Statistic;
