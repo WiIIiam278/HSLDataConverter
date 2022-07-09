@@ -2,7 +2,7 @@
 
 [![](https://jitpack.io/v/net.william278/HSLDataConverter.svg)](https://jitpack.io/#net.william278/HSLDataConverter)
 
-A simple library to convert serialized legacy HuskSync (v1.x) data into Spigot API data.
+A simple library to convert serialized legacy HuskSync (v1.x) data into a portable format for import into other formats.
 
 This library is only for use in upgrading or converting HuskSync v1.x data in a portable manner and is utilised in
 HuskSync v2.x for data migration.
