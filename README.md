@@ -26,7 +26,7 @@ build.gradle file as per below.
 <dependency>
     <groupId>net.william278</groupId>
     <artifactId>HSLDataConverter</artifactId>
-    <version>1.0.0</version>
+    <version>VERSION</version>
 </dependency>
 ```
 
@@ -40,7 +40,7 @@ repositories {
 
 ```groovy
 dependencies {
-    implementation 'net.william278:HSLDataConverter:1.0.0'
+    implementation 'net.william278:HSLDataConverter:VERSION'
 }
 ```
 
